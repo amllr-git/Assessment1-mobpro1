@@ -31,8 +31,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun pilihBD(){
         val selectedBD = binding.radioGroup.checkedRadioButtonId
-        val panjang = binding.panjangInp.text.toString()
-        val lebar = binding.lebarInp.text.toString()
 
         val persegi = selectedBD == R.id.persegiButton
         val pPanjang = selectedBD == R.id.pPanjangButton
