@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Calc2D</string>
+    <string name="app_intro">Calc2D adalah kalkulator sederhana untuk memecahkan soal bangun datar dengan hanya mengisi panjang maupun sisi dari bangun datar tersebut</string>
+
+    <!-- Bangun Datar -->
+    <string name="bgnDtr">Bangun Datar</string>
+    <string name="persegi">Persegi</string>
+    <string name="pPanjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="lingkaran">Lingkaran</string>
+
+    <string name="panjang">Panjang (cm)</string>
+    <string name="lebar">Lebar (cm)</string>
+    <string name="sisi">Sisi (cm)</string>
+    <string name="alas">Alas (cm)</string>
+    <string name="tinggi">Tinggi (cm)</string>
+    <string name="pi">"\u03C0" (pi)</string>
+    <string name="jari">Jari-jari (cm)</string>
+
+    <string name="pilih">Pilih</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+
+    <!-- Warnings -->
+    <string name="bd_invalid">Pilih Bangun Datar</string>
+    <string name="input_invalid">Inputan tidak boleh kosong</string>
+    
+    <string name="luas_hasil">Luas: %1$.2f cm"\u00B2"</string>
+    <string name="keliling_hasil">Keliling: %1$.2f cm</string>
+
+    <!-- Test DropdownMenu -->
+    <string-array name="bangun_datar">
+        <item>Persegi</item>
+        <item>Persegi Panjang</item>
+        <item>Segitiga</item>
+        <item>Lingkaran</item>
+    </string-array>
+</resources>
