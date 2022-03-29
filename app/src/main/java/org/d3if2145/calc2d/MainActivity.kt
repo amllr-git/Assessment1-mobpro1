@@ -4,9 +4,7 @@ import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
-import android.util.Log
 import android.widget.Toast
-import androidx.annotation.StringRes
 import org.d3if2145.calc2d.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
